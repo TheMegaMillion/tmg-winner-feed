@@ -1,13 +1,12 @@
 [
   {
-    "wallet": "0x…",
+    "wallet": "0xAAA111…",
     "amount": "1.2",
     "timestamp": 1682408400
   },
   {
-    "wallet": "0x…",
+    "wallet": "0xBBB222…",
     "amount": "0.8",
     "timestamp": 1682404800
   }
-  // … jusqu’à 10 entrées max, la plus récente en première position
 ]
