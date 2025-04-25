@@ -1,0 +1,4 @@
+{
+  "pool": "0",          // montant total actuellement dans le jackpot
+  "updated": 1682408400   // epoch UNIX de la dernière MAJ
+}
