@@ -1,4 +1,5 @@
 {
-  "wallet": "0xabc123456789",
-  "amount": "1.9"
+  "wallet": "0x…",      // dernier gagnant
+  "amount": "1.2",      // montant gagné
+  "timestamp": 1682408400 // epoch UNIX en secondes
 }
