@@ -1,5 +1,10 @@
 [
   {
+    "wallet": "0xabc....",
+    "amount": "0.203",
+    "timestamp": 1745696894
+  },
+  {
     "wallet": "0xabc123456789",
     "amount": "1.9",
     "timestamp": 1745632612
