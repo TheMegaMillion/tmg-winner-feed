@@ -1,5 +1,5 @@
 {
-  "timestamp": <number_of_seconds_since_epoch>,
-  "wallet": "<winner_address>",
-  "amount": <amount_in_SOL>
+  "timestamp": 1735161600,
+  "wallet": "5xYZ...abc123",
+  "amount": 1.5
 }
