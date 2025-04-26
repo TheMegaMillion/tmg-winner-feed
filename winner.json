@@ -1,5 +1,5 @@
 {
-  "wallet": "0xabc123456789",
-  "amount": "1.9",
-  "timestamp": 1745632612
+  "timestamp": <number_of_seconds_since_epoch>,
+  "wallet": "<winner_address>",
+  "amount": <amount_in_SOL>
 }
