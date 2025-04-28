@@ -1,4 +1,16 @@
 {
-  "current": null,
-  "history": []
+  "history": [
+    {
+      "wallet": "6TxMpEVHTkhjeacmJXDxDnQof6r1oKMtBzuwQLdrwbXy",
+      "amount": 0.018908978,
+      "timestamp": 1745864526,
+      "countdownEnd": 1745868126
+    }
+  ],
+  "current": {
+    "wallet": "6TxMpEVHTkhjeacmJXDxDnQof6r1oKMtBzuwQLdrwbXy",
+    "amount": 0.018908978,
+    "timestamp": 1745864526,
+    "countdownEnd": 1745868126
+  }
 }
