@@ -1,6 +1,12 @@
 {
   "history": [
     {
+      "wallet": "9wyn8aHsXWLPjFyXh44dhZomBqhMY8zxqgnHy9JRSPji",
+      "amount": 0.001850797,
+      "timestamp": 1746222637,
+      "countdownEnd": 1746226237
+    },
+    {
       "wallet": "GFRipdCvPhPEZQrahDp3U2MFZaqYXB5G2byTLxY1niUB",
       "amount": 0.003548097,
       "timestamp": 1746218974,
@@ -23,18 +29,12 @@
       "amount": 0.001153066,
       "timestamp": 1746204651,
       "countdownEnd": 1746208251
-    },
-    {
-      "wallet": "6BAXQz5S51px2K7VGBaM7zBFbMLPtX5DQzm3rz1ZT9uj",
-      "amount": 0.012865156,
-      "timestamp": 1746200927,
-      "countdownEnd": 1746204527
     }
   ],
   "current": {
-    "wallet": "GFRipdCvPhPEZQrahDp3U2MFZaqYXB5G2byTLxY1niUB",
-    "amount": 0.003548097,
-    "timestamp": 1746218974,
-    "countdownEnd": 1746222574
+    "wallet": "9wyn8aHsXWLPjFyXh44dhZomBqhMY8zxqgnHy9JRSPji",
+    "amount": 0.001850797,
+    "timestamp": 1746222637,
+    "countdownEnd": 1746226237
   }
 }
